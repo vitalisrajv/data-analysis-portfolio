@@ -59,6 +59,7 @@ The project includes:
 - `retail_sales_dataset.csv` – Original sales dataset.
 - `retail_sales_analysis_starter.xlsx` – Original Excel starter workbook.
 - `ABC_Retail_Sales_Analysis_Completed.xlsx` – Completed analysis workbook.
+- - `sales_dashboard.png` – Screenshot of the completed sales dashboard.
 
 ## Conclusion
 The analysis identified laptops as the highest-revenue product, Rift Valley as the strongest region, and Electronics as the most profitable category. These findings can help ABC Retail Company make better sales and inventory decisions.
