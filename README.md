@@ -33,6 +33,22 @@ Analysed customer purchasing behaviour to identify top-spending customers, citie
 
 ![Customer Analysis Dashboard](customer-analysis-dashboard/customer_analysis_dashboard.png.png)
 
+## Project 3: Retail Sales Analysis Using SQL
+
+**Description:** Analysed 120 retail sales transactions using SQL (SQLite) to identify revenue trends, product performance, regional performance, and business opportunities.
+
+**Tools:** SQL, SQLite, Online SQL Editor
+
+**Key Findings:**
+- Total Revenue: KES 7,676,629.59
+- Total Profit: KES 2,149,391.64
+- Profit Margin: 28%
+- Top Revenue Region: Rift Valley
+- Top Revenue Product: Laptop
+- Top Payment Method: M-Pesa
+
+**Project Files:** [View SQL Retail Sales Analysis](projects/retail-sales-sql-analysis/)
+
 ## Career Goal
 I am continuously learning and developing my data analysis skills by working on practical projects and building a professional portfolio.
 
