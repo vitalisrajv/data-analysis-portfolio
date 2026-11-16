@@ -1,0 +1,93 @@
+
+-- 1. View the first 10 records
+SELECT *
+FROM retail_sales_analysis_starter_2_xlsx_Raw
+LIMIT 10;
+
+-- 2. Count total transactions
+SELECT COUNT(*) AS total_transactions
+FROM retail_sales_analysis_starter_2_xlsx_Raw;
+
+-- 3. Calculate total revenue
+SELECT
+    ROUND(
+        SUM(UNITS_SOLD * CAST(REPLACE(UNIT_PRICE_KES, ',', '') AS REAL)),
+        2
+    ) AS total_revenue
+FROM retail_sales_analysis_starter_2_xlsx_Raw;
+
+-- 4. Calculate total profit
+SELECT
+    ROUND(
+        SUM(CAST(REPLACE(PROFIT_KES, ',', '') AS REAL)),
+        2
+    ) AS total_profit
+FROM retail_sales_analysis_starter_2_xlsx_Raw;
+
+
+-- 5. Revenue by region
+SELECT
+    REGION,
+    ROUND(SUM(CAST(REPLACE(REVENUE_KES, ',', '') AS REAL)), 2) AS total_revenue
+FROM retail_sales_analysis_starter_2_xlsx_Raw
+GROUP BY REGION
+ORDER BY total_revenue DESC;
+
+-- 6. Revenue by product category
+SELECT
+    CATEGORY,
+    ROUND(SUM(CAST(REPLACE(REVENUE_KES, ',', '') AS REAL)), 2) AS total_revenue
+FROM retail_sales_analysis_starter_2_xlsx_Raw
+GROUP BY CATEGORY
+ORDER BY total_revenue DESC;
+
+-- 7. Revenue by product
+SELECT
+    PRODUCT,
+    ROUND(SUM(CAST(REPLACE(REVENUE_KES, ',', '') AS REAL)), 2) AS total_revenue
+FROM retail_sales_analysis_starter_2_xlsx_Raw
+GROUP BY PRODUCT
+ORDER BY total_revenue DESC;
+
+-- 8. Monthly revenue
+SELECT
+    SUBSTR(ORDER_DATE, 1, 7) AS sales_month,
+    ROUND(SUM(CAST(REPLACE(REVENUE_KES, ',', '') AS REAL)), 2) AS monthly_revenue
+FROM retail_sales_analysis_starter_2_xlsx_Raw
+GROUP BY sales_month
+ORDER BY sales_month ASC;
+
+
+-- 9. Revenue by payment method
+SELECT
+    PAYMENT_METHOD,
+    ROUND(SUM(CAST(REPLACE(REVENUE_KES, ',', '') AS REAL)), 2) AS total_revenue
+FROM retail_sales_analysis_starter_2_xlsx_Raw
+GROUP BY PAYMENT_METHOD
+ORDER BY total_revenue DESC;
+
+-- 10. Top 5 products by revenue
+SELECT
+    PRODUCT,
+    ROUND(SUM(CAST(REPLACE(REVENUE_KES, ',', '') AS REAL)), 2) AS total_revenue
+FROM retail_sales_analysis_starter_2_xlsx_Raw
+GROUP BY PRODUCT
+ORDER BY total_revenue DESC
+LIMIT 5;
+
+-- 11. Revenue by salesperson
+SELECT
+    SALESPERSON,
+    ROUND(SUM(CAST(REPLACE(REVENUE_KES, ',', '') AS REAL)), 2) AS total_revenue
+FROM retail_sales_analysis_starter_2_xlsx_Raw
+GROUP BY SALESPERSON
+ORDER BY total_revenue DESC;
+
+-- 12. Calculate profit margin
+SELECT
+    ROUND(
+        SUM(CAST(REPLACE(PROFIT_KES, ',', '') AS REAL)) * 100.0 /
+        SUM(CAST(REPLACE(REVENUE_KES, ',', '') AS REAL)),
+        2
+    ) AS profit_margin_percentage
+FROM retail_sales_analysis_starter_2_xlsx_Raw;
