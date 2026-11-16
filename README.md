@@ -1,19 +1,30 @@
-# Data Analysis Portfolio
+# Data Analyst Portfolio
 
-Welcome to my Data Analysis Portfolio!
+Welcome to my Data Analytics Portfolio!
 
-I am developing my skills in data analysis and building practical projects to demonstrate my ability to clean, analyse, visualise, and interpret data.
+I am an aspiring Data Analyst building practical skills in data analysis, data cleaning, data visualisation and business intelligence.
 
-## Skills & Tools
-- Google Sheets
+I work with **Microsoft Excel, Google Sheets and SQL** to analyse datasets, identify trends, create dashboards and generate meaningful business insights.
+
+## About Me
+I enjoy working with data to solve business problems and support informed decision-making. Through practical projects, I am developing my ability to transform raw data into clear reports, visualisations and actionable insights.
+
+This portfolio showcases my hands-on projects, analytical skills and continuous learning journey.
+
+## Technical Skills & Tools
+
 - Microsoft Excel
+- Google Sheets
+- SQL (SQLite)
 - Data Cleaning
+- Data Analysis
 - Pivot Tables
 - Data Visualisation
 - Dashboard Creation
 - Business Insights
 
-## My Projects
+
+## Featured Projects
 
 ### 1. ABC Retail Sales Analysis
 Analysed retail sales data to identify revenue trends, product performance, regional performance, and profitability.
@@ -57,10 +68,14 @@ The SQL query calculated total retail sales revenue of KES 7,676,629.59.
 ![SQL Total Revenue Result](retail-sales-sql-analysis/sql_total_revenue.png.png)
 
 ## Career Goal
-I am continuously learning and developing my data analysis skills by working on practical projects and building a professional portfolio.
+
+My goal is to grow as a Data Analyst by working on real-world datasets, developing my technical skills and delivering data-driven insights that help businesses make better decisions.
+
+I am open to learning opportunities, internships and entry-level Data Analyst opportunities.
 
 ## Contact
-**GitHub:** [vitalisrajv](https://github.com/vitalisrajv)
+
+- **GitHub:** [vitalisrajv](https://github.com/vitalisrajv)
 
 ---
 
