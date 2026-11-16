@@ -69,6 +69,10 @@ Based on the SQL analysis, the following actions are recommended:
 
 5. **Recognise Top Salespeople:** Esther generated the highest sales revenue. The business can study successful sales approaches and share useful practices with the wider sales team.
 
+## Screenshot
+
+![SQL Total Revenue Result](sql_total_revenue.png.png)
+
 ## Conclusion
 
 This project demonstrates how SQL can be used to analyse retail sales data, calculate key business metrics, identify trends, and generate actionable business recommendations.
