@@ -128,6 +128,9 @@ The project includes:
 
 ## Conclusion
 The analysis identified laptops as the highest-revenue product, Rift Valley as the strongest region, and Electronics as the most profitable category. These findings can help ABC Retail Company make better sales and inventory decisions.
+## Sales Dashboard
+
+![ABC Retail Sales Dashboard](sales_dashboard.png)
 
 ## Author
 **GitHub:** [Vitalis Rajv](https://github.com/vitalisrajv)
