@@ -31,7 +31,7 @@ Analysed customer purchasing behaviour to identify top-spending customers, citie
 
 [View Project](customer-analysis-dashboard/)
 
-![Customer Analysis Dashboard](customer-analysis-dashboard/customer_analysis_dashboard.png)
+![Customer Analysis Dashboard](customer-analysis-dashboard/customer_analysis_dashboard.png.png)
 
 ## Career Goal
 I am continuously learning and developing my data analysis skills by working on practical projects and building a professional portfolio.
