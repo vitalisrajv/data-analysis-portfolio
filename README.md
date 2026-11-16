@@ -53,6 +53,7 @@ Analysed customer purchasing behaviour to identify top-spending customers, citie
 ### Total Revenue
 
 The SQL query calculated total retail sales revenue of KES 7,676,629.59.
+
 ![SQL Total Revenue Result](sql_total_revenue.png.png)
 
 ## Career Goal
