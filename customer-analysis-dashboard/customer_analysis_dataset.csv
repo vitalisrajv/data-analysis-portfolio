@@ -1,0 +1,181 @@
+Order ID,Order Date,Customer ID,Customer Name,Age,City,Product,Category,Quantity,Unit Price (KES),Payment Method
+ORD0082,2025-01-04,CUST031,Customer 031,24,Nairobi,Backpack,Fashion,3,3600,Bank Transfer
+ORD0047,2025-01-05,CUST036,Customer 036,60,Kisumu,Headphones,Electronics,1,3700,M-Pesa
+ORD0104,2025-01-06,CUST036,Customer 036,60,Kisumu,Notebook Pack,Stationery,2,300,Card
+ORD0106,2025-01-09,CUST029,Customer 029,59,Kisumu,Headphones,Electronics,3,4600,Bank Transfer
+ORD0175,2025-01-13,CUST031,Customer 031,24,Nairobi,Printer,Electronics,3,27600,Card
+ORD0102,2025-01-15,CUST022,Customer 022,42,Kisumu,Microwave,Home Appliances,3,13100,Bank Transfer
+ORD0003,2025-01-17,CUST015,Customer 015,57,Kisumu,Backpack,Fashion,4,2900,M-Pesa
+ORD0150,2025-01-19,CUST032,Customer 032,34,Kisumu,Office Chair,Furniture,3,10000,Bank Transfer
+ORD0154,2025-01-19,CUST035,Customer 035,37,Nakuru,Printer,Electronics,1,18000,Cash
+ORD0053,2025-01-20,CUST025,Customer 025,49,Eldoret,Microwave,Home Appliances,2,13600,Bank Transfer
+ORD0069,2025-01-24,CUST002,Customer 002,21,Thika,Desk,Furniture,4,24600,M-Pesa
+ORD0177,2025-01-24,CUST009,Customer 009,25,Mombasa,Laptop,Electronics,3,115400,M-Pesa
+ORD0090,2025-01-27,CUST035,Customer 035,37,Nakuru,Backpack,Fashion,2,1600,M-Pesa
+ORD0033,2025-01-30,CUST021,Customer 021,44,Nairobi,Laptop,Electronics,4,116400,Card
+ORD0097,2025-02-05,CUST024,Customer 024,22,Thika,Notebook Pack,Stationery,3,200,Bank Transfer
+ORD0152,2025-02-08,CUST010,Customer 010,34,Eldoret,Microwave,Home Appliances,3,17100,Bank Transfer
+ORD0077,2025-02-09,CUST029,Customer 029,59,Kisumu,Running Shoes,Fashion,2,5900,Cash
+ORD0128,2025-02-11,CUST029,Customer 029,59,Kisumu,Printer,Electronics,1,34700,Bank Transfer
+ORD0132,2025-02-16,CUST032,Customer 032,34,Kisumu,Microwave,Home Appliances,3,18900,Cash
+ORD0155,2025-02-16,CUST015,Customer 015,57,Kisumu,Blender,Home Appliances,1,11100,M-Pesa
+ORD0024,2025-02-18,CUST013,Customer 013,54,Nakuru,Headphones,Electronics,4,6300,Bank Transfer
+ORD0120,2025-02-20,CUST040,Customer 040,24,Eldoret,Desk,Furniture,2,15700,M-Pesa
+ORD0098,2025-02-24,CUST032,Customer 032,34,Kisumu,Blender,Home Appliances,3,11100,Bank Transfer
+ORD0026,2025-02-25,CUST022,Customer 022,42,Kisumu,Desk,Furniture,2,13800,Bank Transfer
+ORD0014,2025-02-27,CUST002,Customer 002,21,Thika,Backpack,Fashion,3,2700,M-Pesa
+ORD0096,2025-03-03,CUST039,Customer 039,37,Thika,Printer,Electronics,1,20800,Bank Transfer
+ORD0110,2025-03-03,CUST021,Customer 021,44,Nairobi,Notebook Pack,Stationery,2,500,Card
+ORD0016,2025-03-06,CUST035,Customer 035,37,Nakuru,Office Chair,Furniture,4,21500,Card
+ORD0092,2025-03-06,CUST016,Customer 016,20,Mombasa,Microwave,Home Appliances,1,22900,Card
+ORD0113,2025-03-06,CUST035,Customer 035,37,Nakuru,Running Shoes,Fashion,1,3100,Cash
+ORD0063,2025-03-07,CUST036,Customer 036,60,Kisumu,Desk,Furniture,4,26000,Bank Transfer
+ORD0046,2025-03-08,CUST022,Customer 022,42,Kisumu,Running Shoes,Fashion,2,8100,Bank Transfer
+ORD0138,2025-03-09,CUST036,Customer 036,60,Kisumu,Running Shoes,Fashion,4,8700,M-Pesa
+ORD0042,2025-03-10,CUST007,Customer 007,57,Nakuru,Running Shoes,Fashion,1,3800,Card
+ORD0005,2025-03-15,CUST030,Customer 030,56,Mombasa,Running Shoes,Fashion,2,5600,Cash
+ORD0051,2025-03-25,CUST016,Customer 016,20,Mombasa,Office Chair,Furniture,4,8100,Card
+ORD0085,2025-03-26,CUST026,Customer 026,27,Nakuru,Microwave,Home Appliances,2,22100,M-Pesa
+ORD0126,2025-03-26,CUST004,Customer 004,34,Mombasa,Running Shoes,Fashion,3,8100,M-Pesa
+ORD0156,2025-03-27,CUST029,Customer 029,59,Kisumu,Running Shoes,Fashion,1,3000,Cash
+ORD0012,2025-04-02,CUST033,Customer 033,25,Mombasa,Notebook Pack,Stationery,1,600,Card
+ORD0057,2025-04-02,CUST017,Customer 017,47,Kisumu,Printer,Electronics,3,12900,M-Pesa
+ORD0032,2025-04-08,CUST010,Customer 010,34,Eldoret,Running Shoes,Fashion,2,3200,M-Pesa
+ORD0095,2025-04-12,CUST026,Customer 026,27,Nakuru,Headphones,Electronics,2,3100,Cash
+ORD0163,2025-04-12,CUST020,Customer 020,26,Nairobi,Blender,Home Appliances,4,4300,Card
+ORD0088,2025-04-19,CUST021,Customer 021,44,Nairobi,Microwave,Home Appliances,3,17100,Bank Transfer
+ORD0125,2025-04-26,CUST035,Customer 035,37,Nakuru,Office Chair,Furniture,3,11100,M-Pesa
+ORD0112,2025-04-27,CUST019,Customer 019,33,Kisumu,Backpack,Fashion,2,3100,M-Pesa
+ORD0021,2025-04-28,CUST004,Customer 004,34,Mombasa,Headphones,Electronics,1,6000,M-Pesa
+ORD0068,2025-05-01,CUST006,Customer 006,54,Nairobi,Running Shoes,Fashion,2,5000,Card
+ORD0178,2025-05-01,CUST007,Customer 007,57,Nakuru,Notebook Pack,Stationery,2,800,Bank Transfer
+ORD0022,2025-05-02,CUST033,Customer 033,25,Mombasa,Running Shoes,Fashion,4,5200,Card
+ORD0029,2025-05-02,CUST006,Customer 006,54,Nairobi,Office Chair,Furniture,4,19900,Bank Transfer
+ORD0037,2025-05-03,CUST021,Customer 021,44,Nairobi,Running Shoes,Fashion,4,4100,Cash
+ORD0121,2025-05-03,CUST011,Customer 011,58,Nairobi,Office Chair,Furniture,1,11500,M-Pesa
+ORD0040,2025-05-06,CUST005,Customer 005,26,Thika,Backpack,Fashion,3,2200,Bank Transfer
+ORD0019,2025-05-07,CUST008,Customer 008,22,Nairobi,Desk,Furniture,1,17600,M-Pesa
+ORD0091,2025-05-07,CUST002,Customer 002,21,Thika,Desk,Furniture,1,24900,Card
+ORD0118,2025-05-08,CUST006,Customer 006,54,Nairobi,Headphones,Electronics,4,4600,Bank Transfer
+ORD0109,2025-05-09,CUST020,Customer 020,26,Nairobi,Desk,Furniture,1,27400,Card
+ORD0135,2025-05-10,CUST021,Customer 021,44,Nairobi,Backpack,Fashion,1,3700,M-Pesa
+ORD0031,2025-05-16,CUST025,Customer 025,49,Eldoret,Microwave,Home Appliances,3,19300,Bank Transfer
+ORD0173,2025-05-16,CUST001,Customer 001,60,Nairobi,Notebook Pack,Stationery,1,900,Cash
+ORD0165,2025-05-21,CUST026,Customer 026,27,Nakuru,Laptop,Electronics,1,115800,Cash
+ORD0111,2025-05-22,CUST031,Customer 031,24,Nairobi,Printer,Electronics,3,14500,Card
+ORD0101,2025-05-23,CUST006,Customer 006,54,Nairobi,Microwave,Home Appliances,2,20300,Bank Transfer
+ORD0043,2025-05-25,CUST018,Customer 018,37,Mombasa,Printer,Electronics,2,30300,Cash
+ORD0065,2025-05-27,CUST020,Customer 020,26,Nairobi,Desk,Furniture,4,23800,Cash
+ORD0123,2025-05-28,CUST015,Customer 015,57,Kisumu,Running Shoes,Fashion,4,3400,Card
+ORD0134,2025-05-28,CUST032,Customer 032,34,Kisumu,Blender,Home Appliances,1,8800,M-Pesa
+ORD0161,2025-05-28,CUST030,Customer 030,56,Mombasa,Notebook Pack,Stationery,2,300,Bank Transfer
+ORD0157,2025-05-31,CUST004,Customer 004,34,Mombasa,Backpack,Fashion,3,3900,Card
+ORD0054,2025-06-06,CUST023,Customer 023,58,Kisumu,Desk,Furniture,2,9600,Card
+ORD0107,2025-06-06,CUST016,Customer 016,20,Mombasa,Printer,Electronics,3,24100,Cash
+ORD0049,2025-06-07,CUST003,Customer 003,37,Mombasa,Backpack,Fashion,1,3400,Card
+ORD0062,2025-06-08,CUST033,Customer 033,25,Mombasa,Blender,Home Appliances,3,8100,Cash
+ORD0094,2025-06-09,CUST011,Customer 011,58,Nairobi,Headphones,Electronics,1,5700,Bank Transfer
+ORD0038,2025-06-11,CUST030,Customer 030,56,Mombasa,Headphones,Electronics,1,7600,M-Pesa
+ORD0149,2025-06-12,CUST003,Customer 003,37,Mombasa,Microwave,Home Appliances,4,18300,Card
+ORD0055,2025-06-18,CUST026,Customer 026,27,Nakuru,Running Shoes,Fashion,1,6000,Cash
+ORD0153,2025-06-18,CUST006,Customer 006,54,Nairobi,Notebook Pack,Stationery,4,700,Bank Transfer
+ORD0080,2025-06-19,CUST027,Customer 027,25,Eldoret,Notebook Pack,Stationery,4,800,M-Pesa
+ORD0147,2025-06-20,CUST023,Customer 023,58,Kisumu,Notebook Pack,Stationery,4,900,Cash
+ORD0171,2025-06-23,CUST019,Customer 019,33,Kisumu,Headphones,Electronics,4,2700,Card
+ORD0103,2025-07-01,CUST014,Customer 014,34,Nakuru,Running Shoes,Fashion,3,6000,Cash
+ORD0013,2025-07-11,CUST010,Customer 010,34,Eldoret,Office Chair,Furniture,1,15700,Bank Transfer
+ORD0018,2025-07-24,CUST020,Customer 020,26,Nairobi,Backpack,Fashion,4,4500,Bank Transfer
+ORD0056,2025-07-24,CUST033,Customer 033,25,Mombasa,Notebook Pack,Stationery,3,200,M-Pesa
+ORD0071,2025-07-24,CUST032,Customer 032,34,Kisumu,Desk,Furniture,2,25700,M-Pesa
+ORD0030,2025-07-25,CUST014,Customer 014,34,Nakuru,Laptop,Electronics,2,103800,M-Pesa
+ORD0035,2025-07-26,CUST016,Customer 016,20,Mombasa,Headphones,Electronics,2,2300,M-Pesa
+ORD0052,2025-07-30,CUST022,Customer 022,42,Kisumu,Desk,Furniture,3,13000,M-Pesa
+ORD0070,2025-08-01,CUST030,Customer 030,56,Mombasa,Printer,Electronics,2,30300,Bank Transfer
+ORD0169,2025-08-01,CUST021,Customer 021,44,Nairobi,Office Chair,Furniture,2,10800,Cash
+ORD0081,2025-08-04,CUST014,Customer 014,34,Nakuru,Blender,Home Appliances,1,10300,Bank Transfer
+ORD0089,2025-08-04,CUST018,Customer 018,37,Mombasa,Running Shoes,Fashion,1,8500,M-Pesa
+ORD0027,2025-08-05,CUST009,Customer 009,25,Mombasa,Office Chair,Furniture,3,19300,Card
+ORD0072,2025-08-06,CUST007,Customer 007,57,Nakuru,Desk,Furniture,2,26800,Bank Transfer
+ORD0006,2025-08-08,CUST038,Customer 038,42,Mombasa,Printer,Electronics,4,21200,Card
+ORD0011,2025-08-11,CUST019,Customer 019,33,Kisumu,Office Chair,Furniture,4,7500,Cash
+ORD0058,2025-08-11,CUST039,Customer 039,37,Thika,Backpack,Fashion,3,3900,M-Pesa
+ORD0099,2025-08-11,CUST010,Customer 010,34,Eldoret,Office Chair,Furniture,3,21200,Bank Transfer
+ORD0084,2025-08-12,CUST018,Customer 018,37,Mombasa,Microwave,Home Appliances,1,18400,Cash
+ORD0100,2025-08-12,CUST030,Customer 030,56,Mombasa,Printer,Electronics,3,20200,Card
+ORD0028,2025-08-15,CUST005,Customer 005,26,Thika,Notebook Pack,Stationery,1,200,M-Pesa
+ORD0066,2025-08-15,CUST030,Customer 030,56,Mombasa,Microwave,Home Appliances,2,21500,Bank Transfer
+ORD0119,2025-08-15,CUST029,Customer 029,59,Kisumu,Running Shoes,Fashion,4,6400,M-Pesa
+ORD0075,2025-08-17,CUST036,Customer 036,60,Kisumu,Office Chair,Furniture,4,19000,Cash
+ORD0122,2025-08-19,CUST027,Customer 027,25,Eldoret,Printer,Electronics,4,19400,M-Pesa
+ORD0143,2025-08-22,CUST016,Customer 016,20,Mombasa,Notebook Pack,Stationery,2,800,Card
+ORD0087,2025-08-25,CUST009,Customer 009,25,Mombasa,Office Chair,Furniture,1,14100,Bank Transfer
+ORD0136,2025-08-25,CUST035,Customer 035,37,Nakuru,Blender,Home Appliances,1,5400,Cash
+ORD0141,2025-08-25,CUST008,Customer 008,22,Nairobi,Headphones,Electronics,2,8100,Cash
+ORD0160,2025-08-25,CUST015,Customer 015,57,Kisumu,Running Shoes,Fashion,4,5700,M-Pesa
+ORD0025,2025-08-28,CUST027,Customer 027,25,Eldoret,Laptop,Electronics,1,71200,Bank Transfer
+ORD0116,2025-09-02,CUST017,Customer 017,47,Kisumu,Headphones,Electronics,1,6900,Bank Transfer
+ORD0115,2025-09-03,CUST031,Customer 031,24,Nairobi,Microwave,Home Appliances,3,13200,M-Pesa
+ORD0105,2025-09-08,CUST027,Customer 027,25,Eldoret,Notebook Pack,Stationery,2,900,Bank Transfer
+ORD0180,2025-09-08,CUST007,Customer 007,57,Nakuru,Printer,Electronics,4,19100,M-Pesa
+ORD0137,2025-09-13,CUST040,Customer 040,24,Eldoret,Microwave,Home Appliances,1,13700,Cash
+ORD0170,2025-09-14,CUST034,Customer 034,26,Nakuru,Running Shoes,Fashion,2,5700,Bank Transfer
+ORD0145,2025-09-17,CUST022,Customer 022,42,Kisumu,Running Shoes,Fashion,1,6100,Cash
+ORD0007,2025-09-18,CUST009,Customer 009,25,Mombasa,Microwave,Home Appliances,1,9700,M-Pesa
+ORD0034,2025-09-18,CUST004,Customer 004,34,Mombasa,Headphones,Electronics,2,2600,M-Pesa
+ORD0144,2025-09-18,CUST039,Customer 039,37,Thika,Office Chair,Furniture,1,14500,Bank Transfer
+ORD0131,2025-09-23,CUST031,Customer 031,24,Nairobi,Microwave,Home Appliances,3,13100,Bank Transfer
+ORD0060,2025-09-24,CUST001,Customer 001,60,Nairobi,Notebook Pack,Stationery,2,700,Bank Transfer
+ORD0151,2025-09-27,CUST007,Customer 007,57,Nakuru,Microwave,Home Appliances,1,12100,Bank Transfer
+ORD0017,2025-09-28,CUST017,Customer 017,47,Kisumu,Printer,Electronics,4,17400,Card
+ORD0158,2025-09-29,CUST016,Customer 016,20,Mombasa,Blender,Home Appliances,2,5100,Card
+ORD0001,2025-10-01,CUST011,Customer 011,58,Nairobi,Desk,Furniture,2,20800,Bank Transfer
+ORD0039,2025-10-03,CUST005,Customer 005,26,Thika,Desk,Furniture,3,12300,Cash
+ORD0078,2025-10-04,CUST021,Customer 021,44,Nairobi,Headphones,Electronics,2,3700,Card
+ORD0083,2025-10-07,CUST035,Customer 035,37,Nakuru,Printer,Electronics,2,24400,Card
+ORD0108,2025-10-09,CUST028,Customer 028,38,Thika,Backpack,Fashion,3,4100,Cash
+ORD0140,2025-10-10,CUST020,Customer 020,26,Nairobi,Laptop,Electronics,4,74500,Card
+ORD0020,2025-10-11,CUST038,Customer 038,42,Mombasa,Desk,Furniture,2,9100,M-Pesa
+ORD0073,2025-10-13,CUST004,Customer 004,34,Mombasa,Desk,Furniture,1,20600,Card
+ORD0004,2025-10-18,CUST014,Customer 014,34,Nakuru,Backpack,Fashion,2,4300,Bank Transfer
+ORD0015,2025-10-18,CUST016,Customer 016,20,Mombasa,Headphones,Electronics,1,8000,M-Pesa
+ORD0164,2025-10-20,CUST025,Customer 025,49,Eldoret,Backpack,Fashion,3,3000,M-Pesa
+ORD0023,2025-10-23,CUST037,Customer 037,30,Kisumu,Microwave,Home Appliances,2,20600,Bank Transfer
+ORD0059,2025-10-23,CUST025,Customer 025,49,Eldoret,Desk,Furniture,3,10100,Bank Transfer
+ORD0117,2025-10-23,CUST005,Customer 005,26,Thika,Laptop,Electronics,2,80200,Cash
+ORD0146,2025-10-24,CUST038,Customer 038,42,Mombasa,Microwave,Home Appliances,2,19900,Bank Transfer
+ORD0168,2025-10-24,CUST003,Customer 003,37,Mombasa,Backpack,Fashion,2,1700,Cash
+ORD0048,2025-10-26,CUST024,Customer 024,22,Thika,Notebook Pack,Stationery,2,800,Card
+ORD0174,2025-10-27,CUST017,Customer 017,47,Kisumu,Blender,Home Appliances,3,4300,Card
+ORD0130,2025-10-28,CUST037,Customer 037,30,Kisumu,Laptop,Electronics,3,69100,Card
+ORD0162,2025-10-28,CUST023,Customer 023,58,Kisumu,Running Shoes,Fashion,4,5700,Bank Transfer
+ORD0086,2025-10-31,CUST026,Customer 026,27,Nakuru,Printer,Electronics,1,14100,Bank Transfer
+ORD0009,2025-11-02,CUST025,Customer 025,49,Eldoret,Microwave,Home Appliances,3,22600,M-Pesa
+ORD0129,2025-11-06,CUST021,Customer 021,44,Nairobi,Running Shoes,Fashion,1,3600,Card
+ORD0166,2025-11-07,CUST015,Customer 015,57,Kisumu,Backpack,Fashion,2,2400,Cash
+ORD0159,2025-11-09,CUST006,Customer 006,54,Nairobi,Blender,Home Appliances,2,9300,Card
+ORD0064,2025-11-12,CUST012,Customer 012,55,Mombasa,Printer,Electronics,3,22300,M-Pesa
+ORD0124,2025-11-17,CUST017,Customer 017,47,Kisumu,Printer,Electronics,2,22800,M-Pesa
+ORD0008,2025-11-18,CUST010,Customer 010,34,Eldoret,Office Chair,Furniture,4,9100,Bank Transfer
+ORD0167,2025-11-18,CUST009,Customer 009,25,Mombasa,Headphones,Electronics,1,5700,Bank Transfer
+ORD0139,2025-11-19,CUST002,Customer 002,21,Thika,Printer,Electronics,2,30100,Card
+ORD0045,2025-11-21,CUST006,Customer 006,54,Nairobi,Blender,Home Appliances,3,3500,M-Pesa
+ORD0176,2025-11-22,CUST005,Customer 005,26,Thika,Microwave,Home Appliances,3,18900,M-Pesa
+ORD0076,2025-11-23,CUST016,Customer 016,20,Mombasa,Running Shoes,Fashion,4,5500,Cash
+ORD0114,2025-11-23,CUST009,Customer 009,25,Mombasa,Microwave,Home Appliances,1,8800,Cash
+ORD0002,2025-11-24,CUST018,Customer 018,37,Mombasa,Notebook Pack,Stationery,2,700,M-Pesa
+ORD0036,2025-12-03,CUST027,Customer 027,25,Eldoret,Printer,Electronics,3,18600,Card
+ORD0067,2025-12-04,CUST011,Customer 011,58,Nairobi,Headphones,Electronics,3,8300,Cash
+ORD0061,2025-12-07,CUST005,Customer 005,26,Thika,Backpack,Fashion,3,1900,Cash
+ORD0050,2025-12-08,CUST016,Customer 016,20,Mombasa,Headphones,Electronics,3,7000,Card
+ORD0074,2025-12-08,CUST030,Customer 030,56,Mombasa,Notebook Pack,Stationery,3,900,Bank Transfer
+ORD0133,2025-12-10,CUST021,Customer 021,44,Nairobi,Headphones,Electronics,2,6000,Bank Transfer
+ORD0179,2025-12-10,CUST024,Customer 024,22,Thika,Notebook Pack,Stationery,4,400,Bank Transfer
+ORD0172,2025-12-13,CUST015,Customer 015,57,Kisumu,Blender,Home Appliances,3,4100,Bank Transfer
+ORD0010,2025-12-16,CUST008,Customer 008,22,Nairobi,Notebook Pack,Stationery,3,700,M-Pesa
+ORD0044,2025-12-18,CUST014,Customer 014,34,Nakuru,Running Shoes,Fashion,4,5700,M-Pesa
+ORD0127,2025-12-19,CUST030,Customer 030,56,Mombasa,Running Shoes,Fashion,4,5900,Bank Transfer
+ORD0079,2025-12-22,CUST025,Customer 025,49,Eldoret,Office Chair,Furniture,2,9100,Bank Transfer
+ORD0148,2025-12-24,CUST013,Customer 013,54,Nakuru,Desk,Furniture,4,14900,Bank Transfer
+ORD0093,2025-12-25,CUST030,Customer 030,56,Mombasa,Running Shoes,Fashion,3,4600,M-Pesa
+ORD0041,2025-12-27,CUST035,Customer 035,37,Nakuru,Running Shoes,Fashion,1,9500,Cash
+ORD0142,2025-12-28,CUST033,Customer 033,25,Mombasa,Running Shoes,Fashion,4,8600,Bank Transfer
