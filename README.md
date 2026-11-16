@@ -48,6 +48,13 @@ Analysed customer purchasing behaviour to identify top-spending customers, citie
 - Top Payment Method: M-Pesa
 
 **Project Files:** [View SQL Retail Sales Analysis](projects/retail-sales-sql-analysis/)
+## SQL Analysis Results
+
+### Total Revenue
+
+The SQL query calculated total retail sales revenue of KES 7,676,629.59.
+
+![SQL Total Revenue Result](sql_total_revenue.png)
 
 ## Career Goal
 I am continuously learning and developing my data analysis skills by working on practical projects and building a professional portfolio.
