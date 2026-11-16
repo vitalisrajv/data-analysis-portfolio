@@ -38,7 +38,7 @@ The completed analysis workbook and dataset will be included in this project fol
 
 ## Dashboard Preview
 
-![Customer Analysis Dashboard](Screenshot%202026-11-16%2013.29.53.png)
+![Customer Analysis Dashboard](customer_analysis_dashboard.png.png)
 
 ## Author
 **Name:** Vitalis Rajv
