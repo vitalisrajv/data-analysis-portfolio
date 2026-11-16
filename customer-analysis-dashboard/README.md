@@ -35,9 +35,10 @@ This project analyses customer purchasing behaviour using a fictional retail dat
 
 ## Project Files
 The completed analysis workbook and dataset will be included in this project folder.
+
 ## Dashboard Preview
 
-![Customer Analysis Dashboard](customer_dashboard.png)
+![Customer Analysis Dashboard](Screenshot%202026-11-16%2013.29.53.png)
 
 ## Author
 **Name:** Vitalis Rajv
